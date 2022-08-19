@@ -3,6 +3,6 @@
 numero = [3, 4, 6, 4, 2, 89]
 
 
-s= set(numero)
+s = set(numero)
 
 print(s)
